@@ -1,4 +1,4 @@
-const signal = "green";
+const signal = "yellow";
 switch (signal) {
     case 'green':
         console.log('I will cross the road');
