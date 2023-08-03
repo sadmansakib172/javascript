@@ -9,6 +9,6 @@ function leapYearFind(array){
    return newArray;
 }
 
-let array = [2023, 2024, 2025, 2028, 2030,2000];
+let array = [2020, 2023, 2024, 2025, 2028, 2030,2000];
 let result = leapYearFind(array);
 console.log(result);
